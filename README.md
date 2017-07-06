@@ -1,0 +1,2 @@
+# sampleHibernate
+Sample using hibernate
